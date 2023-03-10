@@ -8,3 +8,14 @@ It's also possible to hold the + or - button clicked to add/remove multiple unit
 
 
 <img src="./img/README/javascript-counter.png" width="400">
+
+
+## Try It Out
+
+
+
+## :computer:Made With : 
+
+- HTML
+- CSS
+- Javascript Vanilla
