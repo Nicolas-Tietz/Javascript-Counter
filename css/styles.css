@@ -4,8 +4,10 @@
     font-weight: normal;
 }
 
+
+
 body{
-    background:linear-gradient(to right,rgba(213, 255, 159, 0.774),rgba(237, 252, 104, 0.664));
+    background:linear-gradient(to right,rgb(126, 150, 255),rgb(255, 255, 255));
     width: 100vw;
     height: 100vh;
     overflow: hidden;
@@ -48,7 +50,7 @@ h2{
 }
 
 .operatorBtn{
-    background: rgba(255, 255, 0, 0.774);
+    background: rgba(46, 118, 252, 0.548);
     border:1px solid white;
     border-radius: 50%;
     width: 80px;
@@ -74,7 +76,7 @@ h2{
 
 .resetBtn{
     margin: 0 auto;
-    background-color: rgba(173, 255, 47,.8);
+    background-color: rgb(255, 217, 47);
     border:0;
     width: 180px;
     height: 60px;
