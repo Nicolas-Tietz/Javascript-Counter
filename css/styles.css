@@ -30,7 +30,7 @@ body{
     transform:translateY(-30%);    
 }
 h1{
-    font-size: 74px;
+    font-size: 4rem;
     text-align: center;
     font-weight: bold;
 
@@ -69,7 +69,7 @@ h2{
 
 .number{
     font-size: 48px;
-    width: 300px;
+    width: 40%;
     text-align: center;
     font-weight:bold;
 }
@@ -87,3 +87,29 @@ h2{
     justify-content: center;
 }
 
+
+@media (max-width:480px){
+    .container{
+        transform:translateY(-0%); 
+        width: 300px;
+    }
+    .number{
+        width: 30%;
+        font-size: 30px;
+    }
+
+    .operatorBtn{
+        width: 60px;
+        height: 60px;
+        font-size: 20px;
+    }
+    .resetBtn{
+        width: 120px;
+        height: 60px;
+    }
+
+    
+    .counter{
+        width: 100%;
+    }
+}

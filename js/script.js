@@ -137,37 +137,37 @@ window.onload = function(){
 
 
     //Plus Button Events
-    plusButton.addEventListener('mousedown',()=>{
+    plusButton.addEventListener('pointerdown',()=>{
         startTimer('+');
     })
 
-    plusButton.addEventListener('mouseup',()=>{
+    plusButton.addEventListener('pointerup',()=>{
         clearTwo(timerStart,holdLoop);
         HoldSpeed=100;
         count++;
         updateCount(count);
     })
 
-    plusButton.addEventListener('mouseout',()=>{
+    plusButton.addEventListener('pointerout',()=>{
         clearTwo(timerStart,holdLoop);
         HoldSpeed = 100;
     })
 
     //Minus Button Events
 
-    minusButton.addEventListener('mousedown',()=>{
+    minusButton.addEventListener('pointerdown',()=>{
         startTimer('-')
     })
 
 
-    minusButton.addEventListener('mouseup',()=>{
+    minusButton.addEventListener('pointerup',()=>{
         clearTwo(timerStart,holdLoop);
         HoldSpeed = 100;
         count--;
         updateCount(count);
     })
 
-    minusButton.addEventListener('mouseout',()=>{
+    minusButton.addEventListener('pointerout',()=>{
         clearTwo(timerStart,holdLoop)
         HoldSpeed = 100;
 
