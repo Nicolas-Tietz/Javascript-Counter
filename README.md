@@ -1,7 +1,7 @@
 # Javascript-Counter
 
 
-## Description 
+## :blue_book: Description 
 A Simple <strong>Javascript counter</strong> where you can increase/decrease it by one or more units based on the button clicked.
 It's also possible to hold the + or - button clicked to add/remove multiple units based on the holding time.
 <br/>The <strong>reset button</strong> returns the counter back to 0.
@@ -10,11 +10,12 @@ It's also possible to hold the + or - button clicked to add/remove multiple unit
 <img src="./img/README/javascript-counter.png" width="400">
 
 
-## Try It Out
+## :point_right: Try It Out
 
 
-:computer:
-## Made With : 
+
+
+## :computer: Made With 
 
 - HTML
 - CSS
