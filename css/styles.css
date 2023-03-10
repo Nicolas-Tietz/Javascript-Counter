@@ -5,7 +5,7 @@
 }
 
 body{
-    background:linear-gradient(to right,rgb(213, 255, 159),white);
+    background:linear-gradient(to right,rgba(213, 255, 159, 0.774),rgba(237, 252, 104, 0.664));
     width: 100vw;
     height: 100vh;
     overflow: hidden;
@@ -48,7 +48,7 @@ h2{
 }
 
 .operatorBtn{
-    background: rgba(255,255,0,.7);
+    background: rgba(255, 255, 0, 0.774);
     border:1px solid white;
     border-radius: 50%;
     width: 80px;
