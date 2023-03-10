@@ -1,5 +1,6 @@
 # Javascript-Counter
 
+![counter!](./img/README/javascript-counter.png)
 
 ## Description 
 Simple Javascript counter where you can add/remove one or more units based on the button clicked.
